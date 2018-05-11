@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Excel2Text</string>
+    <string name="btn_choose_file">Choose file</string>
+    <string name="btn_get_text_file">Get text file</string>
+    <string name="label_has_column_header">Has column header</string>
+</resources>
